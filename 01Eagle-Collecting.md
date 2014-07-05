@@ -8,7 +8,7 @@ from Github.
 
 ## Adafruit and Sparkfun libraries
 
-More parts make your Eagle more awesome.
+Because more parts make your Eagle more awesome.
 
 **First go to the following site and click on "Download as Zip":**
 
