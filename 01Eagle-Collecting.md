@@ -8,6 +8,7 @@ from Github.
 
 ## Adafruit and Sparkfun libraries
 
+More parts make your Eagle more awesome.
 
 **First go to the following site and click on "Download as Zip":**
 
@@ -17,6 +18,7 @@ Afterwards open the Eagle folder and place the `.lbr` file from the
 Adafruit zip folder into your Eagle Folder's `lbr` directory.
 (you'll know it's the one if there are lots of existing `.lbr` files there)
 
+===
 
 **Second go to the following site and click on "Download as Zip":**
 https://github.com/sparkfun/SparkFun-Eagle-Libraries
