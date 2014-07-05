@@ -6,9 +6,13 @@ Gotta catch... more libraries I say.
 In this section we'll go over adding libraries to Eagle
 from Github.
 
-## Adafruit and Sparkfun libraries
+---
+
+## Grab More Parts
 
 Because more parts make your Eagle more awesome.
+
+#### Adafruit
 
 **First go to the following site and click on "Download as Zip":**
 
@@ -19,6 +23,8 @@ Adafruit zip folder into your Eagle Folder's `lbr` directory.
 (you'll know it's the one if there are lots of existing `.lbr` files there)
 
 ===
+
+#### Sparkfun
 
 **Second go to the following site and click on "Download as Zip":**
 https://github.com/sparkfun/SparkFun-Eagle-Libraries
