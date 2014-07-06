@@ -33,4 +33,36 @@ Sparkfun keeps their files as separate `.lbr` files, after extracting, again pla
 all of the Sparkfun lbr's into your Eagle's `lbr` folder.
 
 
+## Design rules 
+
+PCB manufacturers have their job cut out for them; there are many ways a PCB can go wrong.
+
+In order to minimize the amount of errors, houses usually specify "design rules",
+more stringent than design guidelines, these basically ensure that you will be 
+alb
+
+https://www.sparkfun.com/tutorials/115
+
+## Build!
+
+Go ahead and download the Flashlight PCB design from our website and add your tweaks here and there.
+
+Add your name to the project in silkscreen, and modify the shape of the board as well.
+
+
+
+## Caveats
+
+Eagle is great for a first electronics design tool, however the free version does have it's limits.
+
+* max board size is 100x80mm
+* two layers max
+* only one sheet on the schematic editor.
+
+In order to get around these limitations, you may purchase a pricey non-student license (or a reasonable student license), or you can transfer your skills to free-and-open-source-software  -- like Kicad -- which we will cover in the upper division course.
+
+Kicad is a professional grade electronics cad which while a little more advanced, offers at the time of this writing up to 12 technical layers, as opposed to the Eagle Light's 2 layers.
+
+
+
 
