@@ -12,6 +12,8 @@ from Github.
 
 Because more parts make your Eagle more awesome.
 
+Before we begin, find out where you installed Eagle and open the "lib" folder.
+
 #### Adafruit
 
 **First go to the following site and click on "Download as Zip":**
