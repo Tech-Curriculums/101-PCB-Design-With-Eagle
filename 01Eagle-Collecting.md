@@ -47,16 +47,11 @@ https://github.com/sparkfun/SparkFun-Eagle-Libraries
 Sparkfun keeps their files as separate `.lbr` files, after extracting, again place
 all of the Sparkfun lbr's into your Eagle's `lbr` folder.
 
+## How to Engage
 
-## Design rules 
+1. Restart Eagle
+2. Right click on "Library" in the Eagle control panel, and select (Use All)
 
-PCB manufacturers have their job cut out for them; there are many ways a PCB can go wrong.
-
-In order to minimize the amount of errors, houses usually specify "design rules",
-more stringent than design guidelines, these basically ensure that you will be 
-alb
-
-https://www.sparkfun.com/tutorials/115
 
 ## Build!
 
