@@ -8,6 +8,14 @@ from Github.
 
 ---
 
+## quick checklist
+
+There are three things you will need to add before starting.
+
+* [ ] adafruit and sparkfun libraries
+* [ ] sparkfun dru
+* [ ] sparkfun cam
+
 ## Grab More Parts
 
 Because more parts make your Eagle more awesome.
