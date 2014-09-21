@@ -14,6 +14,11 @@ Because more parts make your Eagle more awesome.
 
 Before we begin, find out where you installed Eagle and open the "lib" folder.
 
+<p align="center">
+
+<img width="100%" src="./Img/place_into_folder.png"> </img>
+</p>
+
 #### Adafruit
 
 **First go to the following site and click on "Download as Zip":**
