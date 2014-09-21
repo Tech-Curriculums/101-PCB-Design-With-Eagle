@@ -1,7 +1,7 @@
 Eagle Collecting
 ================
 
-Gotta catch... more libraries I say.
+Gotta catch all the parts.
 
 In this section we'll go over adding libraries to Eagle
 from Github.
