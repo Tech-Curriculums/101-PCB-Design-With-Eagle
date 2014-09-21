@@ -1,7 +1,7 @@
 Eagle Collecting
 ================
 
-Gotta catch all the parts.
+Gotta catch all the components.
 
 In this section we'll go over adding libraries to Eagle
 from Github.
